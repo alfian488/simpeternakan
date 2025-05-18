@@ -1,0 +1,21 @@
+{
+    "jurnal_umum": [
+        {
+            "id": "3d939f99-7dab-4511-8a10-f81fef7d5e70",
+            "tanggal": "2025-05-18",
+            "deskripsi": "pembelian pakan",
+            "entri": [
+                {
+                    "akun": "Biaya Pakan",
+                    "debit": 12000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 12000.0
+                }
+            ]
+        }
+    ]
+}
